@@ -80,6 +80,9 @@ falt :focus-visible {
 nav ul {
   list-style: none;
   padding: 0;
+  display: flex;
+  gap: 20px;
+  margin:0;
 }
 
 nav a {
